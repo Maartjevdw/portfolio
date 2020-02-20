@@ -2,4 +2,4 @@
 
 Hi there! This is my Github Portfolio.
 
-[Github](https://maartjevdw.github.io/portfolio/)
+[CLick to see my portfolio](https://maartjevdw.github.io/portfolio/)
